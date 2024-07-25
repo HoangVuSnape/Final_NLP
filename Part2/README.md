@@ -7,3 +7,6 @@ Part 2:
 - RLHF (Reinforcement Learning Human Feedback)
 
 2) Hãy fine-tune một LLM cho bài toán dịch máy hoặc bài toán Question-answering (cho 1 domain nào đó tự chọn). Lưu ý, làm cho dữ liệu tiếng Việt.
+
+
+mình sẽ làm 1 pretrain Phobert và sẽ dung các model khác to compare bachkhoa vi bi-encoder
